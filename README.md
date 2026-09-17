@@ -10,7 +10,7 @@ The Mister Sparkle experiment aims to retain reader engagement while improving t
 
 In 1980, the aerospace industry adopted Simplified Technical English, an English dialect that defines specific vocabulary and sentence structures that make documentation more understandable and translatable. Similar approaches have since been widely adopted in global enterprises.
 
-Writers consistently report that writing in these restricted dialects is soul-crushing, and demotivated writers are less likely to produce their best work.
+Writers consistently report that writing in these restricted dialects is soul-crushing, and demotivated writers are less likely to produce their best work. So that solution also has implications for documentation quality.
 
 A chain of LLM-assisted transformations may make it possible to produce documentation that is both enjoyable to read and easier to translate. The first transformation removes language that is difficult to translate while retaining technical meaning, constraints, uncertainty, terminology, or the document’s task structure. The resulting intermediate English would not be strictly Simplified Technical English, but it might occupy similar territory. (Fortunately, LLMs don't have souls to crush.)
 
