@@ -67,7 +67,7 @@ I spell out "Mister" to help people find the project without wading through a se
 
 There's no requirement to read anything in particular—non-specialists' thoughts are just as valuable here as those of seasoned AI practitioners or researchers—but you might find these useful.
 
-*Le Ton beau de Marot: In Praise of the Music of Language,* Douglas Hofstadter, Basic Books, 1997. ISBN 0-465-08645-4. Noted AI researcher explores translation issues by collecting dozens of translations of a light French lyric poem ("Ma Mignonne" by Clément Marot) into English. It includes several 1997-era machine translations, which are as dreadful as you'd expect. The book's title is a multi-layered pun.
+* *Le Ton beau de Marot: In Praise of the Music of Language,* Douglas Hofstadter, Basic Books, 1997. ISBN 0-465-08645-4. Noted AI researcher explores translation issues by collecting dozens of translations of a light French lyric poem ("Ma Mignonne" by Clément Marot) into English. It includes several 1997-era machine translations, which are as dreadful as you'd expect. The book's title is a multi-layered pun.
 
 If you only read one thing for this project, make it Hofstadter. It provides a conceptual anchor for thinking about which traits matter when text crosses language boundaries. Translating poetry is Mister Sparkle on hard mode, and the book is enjoyable and stimulating.
 
